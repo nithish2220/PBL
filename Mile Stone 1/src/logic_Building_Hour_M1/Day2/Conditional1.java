@@ -1,3 +1,4 @@
+//1)	Write a program to accept a number N and print whether it is positive, negative or zero
 package logic_Building_Hour_M1.Day2;
 import java.util.*;
 public class Conditional1 {
